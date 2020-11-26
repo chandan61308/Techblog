@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "626950194579",
+    "firebase_url": "https://techinbit.firebaseio.com",
+    "project_id": "techinbit",
+    "storage_bucket": "techinbit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626950194579:android:a11c7e26410227dc3b1466",
+        "android_client_info": {
+          "package_name": "com.example.techblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626950194579-5hm1rum9d51r3e0q2l86ds4ake2kds09.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.techblog",
+            "certificate_hash": "8760b3888cb95c054bf2c115a85e9c007dc6fe7b"
+          }
+        },
+        {
+          "client_id": "626950194579-7p234qr7lpudon0gorqk11jv9vkm48gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4ducMJoaTlNkz7Lz9hdDDoc5xUJaZb_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626950194579-7p234qr7lpudon0gorqk11jv9vkm48gk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
